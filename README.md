@@ -2,7 +2,7 @@
 
 <br/>
 
-Soy **Desarrollador Web Full Stack** mi trabajo se basa en el desarrollo propio y del proyecto mismo. Tomo siempre en cuenta a mis compañeros y el respeto mutuo. Busco aumentar mis conocimientos con cada trabajo y cada reto, soy disciplinado y ordenado. Considero el desarrollo web como el futuro y que debe implementarse el la resolución de problemas siempre.
+Soy **Desarrollador Web Full Stack** mi trabajo se basa en el desarrollo propio y del proyecto mismo.
 
 <br/>
 
@@ -27,6 +27,8 @@ Estas son los conocimientos que poseo:
 <li> Nodemailer
 <li> OpenAI
 </ul>
+
+Bienvenidos a mi repositorio, aquí encontraras el proceso de desarrollo de mis habilidades y hallaras también diferentes proyectos y trabajos realizados ya sea en grupo o individualmente.
 
 <br>
 
