@@ -1,5 +1,7 @@
 <h1> Hola, soy Sebastian Peralta <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+<img src="https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png" alt="image" />
+
 <br/>
 
 Soy **Desarrollador Web Full Stack** mi trabajo se basa en el desarrollo propio y del proyecto mismo.
