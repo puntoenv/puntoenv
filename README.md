@@ -1,6 +1,6 @@
 <h1> Hola, soy Sebastian Peralta <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img src="https://res.cloudinary.com/dibwxnomi/image/upload/v1680625949/me/Margarita_Perez_a9wgdk.png" alt="image" height="300px" width="100%" />
+<img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg" alt="image" height="300px" width="100%" />
 
 <br/>
 
