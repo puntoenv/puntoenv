@@ -1,72 +1,49 @@
-<h1 align="center"> Hola, soy Sebastian Peralta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+# Hola, soy Sebastian Peralta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p align="center">
-  <em>Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el frontend. Soy un <strong>Desarrollador Web Full Stack</strong>, con una fuerte especialización en frontend, dedicado a crear experiencias de usuario excepcionales.</em>
-</p>
+Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el frontend. Soy un **Desarrollador Web Full Stack**, con una fuerte especialización en frontend, dedicado a crear experiencias de usuario excepcionales.
 
 <!-- Uncomment the following line to include a banner image -->
-<!-- <img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg" alt="Banner" width="100%"> -->
-
-<br/>
+<!-- ![Banner](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg) -->
 
 ## 🛠️ Habilidades en Frontend
 
 Mis conocimientos en desarrollo frontend incluyen:
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <strong>Lenguajes y Herramientas</strong>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-      </ul>
-    </td>
-    <td align="center" width="150">
-      <strong>Frameworks y Librerías</strong>
-      <ul>
-        <li>React</li>
-        <li>Redux / Toolkit</li>
-        <li>Next.js</li>
-      </ul>
-    </td>
-    <td align="center" width="150">
-      <strong>Herramientas de Desarrollo</strong>
-      <ul>
-        <li>VS Code</li>
-        <li>Git</li>
-        <li>Webpack</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+|        LENGUAGES       |        FRAMEWORKS        |         TECNOLOGÍAS        |        SOFT SKILLS        |
+|------------------------|--------------------------|----------------------------|---------------------------|
+| - HTML                 | - React                  | - Tailwind CSS             | - Trabajo en equipo       |
+| - CSS                  | - Next.js                | - Docker                   | - Comunicación efectiva   |
+| - JavaScript           | - Angular                | - Firebase                 | - Gestión del tiempo      |
+| - TypeScript           | - Vite                   | - Strapi                   | - Resolución de problemas |
 
-<br/>
+## 🌟 Habilidades Adicionales
 
-## 🚀 Proyectos Destacados
+Además de mis competencias en frontend, también poseo conocimientos sólidos en backend y otras áreas:
 
-Aquí algunos de los proyectos frontend más relevantes que he desarrollado:
+- **Backend**: Express, Sequelize, Mongoose, PostgreSQL, MongoDB.
+- **Integraciones y Servicios**: Nodemailer, OpenAI.
+- **Sistemas Operativos**: Uso tanto **Windows 11** como **Linux basado en Debian** (WSL - Ubuntu).
+- **Desarrollo Completo**: He desarrollado formularios, ecommerce y contenedores.
+- **Metodologías**: Experiencia en Scrum para la gestión ágil de proyectos.
+- **Arquitectura**: Conocimientos en microservicios para el desarrollo escalable y eficiente de aplicaciones.
 
-- **E-commerce Platform**: Una plataforma completa de comercio electrónico usando React, Redux y CSS.
-- **Portfolio Website**: Mi propio portafolio profesional, creado con Next.js para una experiencia rápida y eficiente.
-- **Task Management App**: Una aplicación de gestión de tareas con una interfaz intuitiva, desarrollada con React y Redux Toolkit.
+## 📈 Objetivos de Aprendizaje
 
-Puedes explorar estos y otros proyectos en mis repositorios.
-
-<br/>
+Actualmente, estoy enfocado en mejorar mis habilidades en Next.js y Typescript, tecnologías que considero el futuro del desarrollo web. También busco mejorar mis conocimientos en diseño UX/UI y creación de contenidos.
 
 ## 📫 Contacto
 
 Para cualquier comunicación, no dudes en contactarme:
 
 - **Correo:** [sebssjb@gmail.com](mailto:sebssjb@gmail.com)
+- **Twitter:** [@twitperalta](https://twitter.com/twitperalta)
 - **LinkedIn:** [Sebastian Peralta](https://www.linkedin.com/in/sebastian-peralta-62539a240/)
-
-<br/>
 
 ---
 
-<p align="center">
-  <em>"Mi pasión es el desarrollo frontend, creando interfaces de usuario que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar. Aspiro a ser el mejor en mi campo, creando aplicaciones innovadoras que impacten positivamente en el mundo."</em>
-</p>
+> "Mi pasión es el desarrollo frontend, creando interfaces de usuario que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar. Aspiro a ser el mejor en mi campo, creando aplicaciones innovadoras que impacten positivamente en el mundo."
+
+## 🧠 Curiosidades
+
+- **Datos Curiosos**: Siempre busco mejorar mis conocimientos y disfruto aprendiendo cosas nuevas que no son ampliamente conocidas.
+- **Orden y Disciplina**: Trabajo constantemente en mejorar mi orden y disciplina para ser más eficiente en mis proyectos.
