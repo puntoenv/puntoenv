@@ -1,11 +1,11 @@
-# Hola, soy Sebastian Peralta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hola, soy Sebastian Peralta :wave:
 
 Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el frontend. Soy un **Desarrollador Web Full Stack**, con una fuerte especialización en frontend, dedicado a crear experiencias de usuario excepcionales.
 
 <!-- Uncomment the following line to include a banner image -->
 <!-- ![Banner](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg) -->
 
-## 🛠️ Habilidades en Frontend
+## :hammer_and_wrench: Habilidades en Frontend
 
 Mis conocimientos en desarrollo frontend incluyen:
 
@@ -16,7 +16,7 @@ Mis conocimientos en desarrollo frontend incluyen:
 | - JavaScript           | - Angular                | - Firebase                 | - Gestión del tiempo      |
 | - TypeScript           | - Vite                   | - Strapi                   | - Resolución de problemas |
 
-## 🌟 Habilidades Adicionales
+## :star2: Habilidades Adicionales
 
 Además de mis competencias en frontend, también poseo conocimientos sólidos en backend y otras áreas:
 
@@ -27,11 +27,11 @@ Además de mis competencias en frontend, también poseo conocimientos sólidos e
 - **Metodologías**: Experiencia en Scrum para la gestión ágil de proyectos.
 - **Arquitectura**: Conocimientos en microservicios para el desarrollo escalable y eficiente de aplicaciones.
 
-## 📈 Objetivos de Aprendizaje
+## :chart_with_upwards_trend: Objetivos de Aprendizaje
 
 Actualmente, estoy enfocado en mejorar mis habilidades en Next.js y Typescript, tecnologías que considero el futuro del desarrollo web. También busco mejorar mis conocimientos en diseño UX/UI y creación de contenidos.
 
-## 📫 Contacto
+## :mailbox: Contacto
 
 Para cualquier comunicación, no dudes en contactarme:
 
@@ -39,11 +39,11 @@ Para cualquier comunicación, no dudes en contactarme:
 - **Twitter:** [@twitperalta](https://twitter.com/twitperalta)
 - **LinkedIn:** [Sebastian Peralta](https://www.linkedin.com/in/sebastian-peralta-62539a240/)
 
----
+## :loudspeaker: Mi Voz
 
 > "Mi pasión es el desarrollo frontend, creando interfaces de usuario que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar. Aspiro a ser el mejor en mi campo, creando aplicaciones innovadoras que impacten positivamente en el mundo."
 
-## 🧠 Curiosidades
+## :brain: Curiosidades
 
 - **Datos Curiosos**: Siempre busco mejorar mis conocimientos y disfruto aprendiendo cosas nuevas que no son ampliamente conocidas.
 - **Orden y Disciplina**: Trabajo constantemente en mejorar mi orden y disciplina para ser más eficiente en mis proyectos.
