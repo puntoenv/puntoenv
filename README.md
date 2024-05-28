@@ -1,38 +1,72 @@
-<h1> Hola, soy Sebastian Peralta <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> Hola, soy Sebastian Peralta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg" alt="image" height="300px" width="100%" />
+<p align="center">
+  <em>Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el frontend. Soy un <strong>Desarrollador Web Full Stack</strong>, con una fuerte especialización en frontend, dedicado a crear experiencias de usuario excepcionales.</em>
+</p>
+
+<!-- Uncomment the following line to include a banner image -->
+<!-- <img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg" alt="Banner" width="100%"> -->
 
 <br/>
 
-Bienvenidos a mi repositorio, aquí encontraras el proceso de desarrollo de mis habilidades y hallaras también diferentes proyectos y trabajos realizados ya sea en grupo o individualmente.
-Soy **Desarrollador Web Full Stack** mi trabajo se basa en el desarrollo propio y del proyecto mismo.
+## 🛠️ Habilidades en Frontend
+
+Mis conocimientos en desarrollo frontend incluyen:
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <strong>Lenguajes y Herramientas</strong>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
+    </td>
+    <td align="center" width="150">
+      <strong>Frameworks y Librerías</strong>
+      <ul>
+        <li>React</li>
+        <li>Redux / Toolkit</li>
+        <li>Next.js</li>
+      </ul>
+    </td>
+    <td align="center" width="150">
+      <strong>Herramientas de Desarrollo</strong>
+      <ul>
+        <li>VS Code</li>
+        <li>Git</li>
+        <li>Webpack</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-## Habilidades :muscle:
+## 🚀 Proyectos Destacados
 
-Estas son los conocimientos que poseo:
+Aquí algunos de los proyectos frontend más relevantes que he desarrollado:
 
-<ul>
-<li> HTML
-<li> JavaScript
-<li> CSS
-<li> React 
-<li> Redux / Toolkit 
-<li> NodeJS
-<li> Express
-<li> Sequelize
-<li> PostgreSQL
-<li> Mongoose
-<li> MongoDB
-<li> NextJS
-<li> Cloudinary
-<li> Nodemailer
-<li> OpenAI
-</ul>
+- **E-commerce Platform**: Una plataforma completa de comercio electrónico usando React, Redux y CSS.
+- **Portfolio Website**: Mi propio portafolio profesional, creado con Next.js para una experiencia rápida y eficiente.
+- **Task Management App**: Una aplicación de gestión de tareas con una interfaz intuitiva, desarrollada con React y Redux Toolkit.
 
-<br>
+Puedes explorar estos y otros proyectos en mis repositorios.
 
-Mi correo personal es <a href="mailto:sebssjb@gmail.com">sebssjb@gmail.com</a>
+<br/>
 
-Para cualquier comunicación no dudes en visitar mi perfil de <a href="https://www.linkedin.com/in/sebastian-peralta-62539a240/"> LinkedIn <a/>
+## 📫 Contacto
+
+Para cualquier comunicación, no dudes en contactarme:
+
+- **Correo:** [sebssjb@gmail.com](mailto:sebssjb@gmail.com)
+- **LinkedIn:** [Sebastian Peralta](https://www.linkedin.com/in/sebastian-peralta-62539a240/)
+
+<br/>
+
+---
+
+<p align="center">
+  <em>"Mi pasión es el desarrollo frontend, creando interfaces de usuario que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar. Aspiro a ser el mejor en mi campo, creando aplicaciones innovadoras que impacten positivamente en el mundo."</em>
+</p>
