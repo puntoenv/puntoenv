@@ -2,9 +2,6 @@
 
 Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el frontend. Soy un **Desarrollador Web Full Stack**, con una fuerte especialización en frontend, dedicado a crear experiencias de usuario excepcionales.
 
-<!-- Uncomment the following line to include a banner image -->
-<!-- ![Banner](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg) -->
-
 ## :hammer_and_wrench: Habilidades en Frontend
 
 Mis conocimientos en desarrollo frontend incluyen:
