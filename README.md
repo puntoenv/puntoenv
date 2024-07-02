@@ -1,23 +1,24 @@
-# Hola, soy Sebastian Peralta :wave:
+## Hola, soy Sebastian Peralta :wave:
 
-Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el frontend. Soy un **Desarrollador Web Full Stack**, con una fuerte especialización en frontend, dedicado a crear experiencias de usuario excepcionales.
+Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el desarrollo web full stack. Soy un **Desarrollador Web Full Stack**, dedicado a crear experiencias de usuario excepcionales y soluciones backend robustas.
 
-## :hammer_and_wrench: Habilidades en Frontend
+## :hammer_and_wrench: Habilidades en Desarrollo Web
 
-Mis conocimientos en desarrollo frontend incluyen:
-
-|        LENGUAGES       |        FRAMEWORKS        |         TECNOLOGÍAS        |        SOFT SKILLS        |
+|        LENGUAJES       |        FRAMEWORKS        |         TECNOLOGÍAS        |        SOFT SKILLS        |
 |------------------------|--------------------------|----------------------------|---------------------------|
 | - HTML                 | - React                  | - Tailwind CSS             | - Trabajo en equipo       |
 | - CSS                  | - Next.js                | - Docker                   | - Comunicación efectiva   |
 | - JavaScript           | - Angular                | - Firebase                 | - Gestión del tiempo      |
 | - TypeScript           | - Vite                   | - Strapi                   | - Resolución de problemas |
+|                        | - Express                | - Node.js                  |                           |
+|                        | - Sequelize              | - PostgreSQL               |                           |
+|                        | - Mongoose               | - MongoDB                  |                           |
+|                        |                          | - Microservicios           |                           |
 
 ## :star2: Habilidades Adicionales
 
-Además de mis competencias en frontend, también poseo conocimientos sólidos en backend y otras áreas:
+Además de mis competencias en frontend y backend, también poseo conocimientos sólidos en otras áreas:
 
-- **Backend**: Express, Sequelize, Mongoose, PostgreSQL, MongoDB.
 - **Integraciones y Servicios**: Nodemailer, OpenAI.
 - **Sistemas Operativos**: Uso tanto **Windows 11** como **Linux basado en Debian** (WSL - Ubuntu).
 - **Desarrollo Completo**: He desarrollado formularios, ecommerce y contenedores.
@@ -38,9 +39,11 @@ Para cualquier comunicación, no dudes en contactarme:
 
 ## :loudspeaker: Mi Voz
 
-> "Mi pasión es el desarrollo frontend, creando interfaces de usuario que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar. Aspiro a ser el mejor en mi campo, creando aplicaciones innovadoras que impacten positivamente en el mundo."
+> "Mi pasión es el desarrollo web, creando interfaces de usuario que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar, además de desarrollar soluciones backend robustas y escalables. Aspiro a ser el mejor en mi campo, creando aplicaciones innovadoras que impacten positivamente en el mundo."
 
 ## :brain: Curiosidades
 
 - **Datos Curiosos**: Siempre busco mejorar mis conocimientos y disfruto aprendiendo cosas nuevas que no son ampliamente conocidas.
 - **Orden y Disciplina**: Trabajo constantemente en mejorar mi orden y disciplina para ser más eficiente en mis proyectos.
+
+Espero que este perfil en GitHub te brinde una visión clara de mis habilidades y aspiraciones como desarrollador web full stack. ¡Gracias por visitar mi repositorio!
