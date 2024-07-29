@@ -1,35 +1,55 @@
-## Hola, soy Sebastian Peralta :wave:
+# ¡Hola, soy Sebastian Peralta! 👋
 
-Bienvenidos a mi repositorio. Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el desarrollo web full stack. Soy un **Desarrollador Web Full Stack**, dedicado a crear experiencias de usuario excepcionales y soluciones backend robustas.
+¡Bienvenidos a mi repositorio! Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el desarrollo web frontend. Soy un **Desarrollador Web Full Stack**, dedicado a crear experiencias de usuario excepcionales y soluciones backend robustas.
 
-## :hammer_and_wrench: Habilidades en Desarrollo Web
+## 🔨 Habilidades en Desarrollo Web
 
-|        LENGUAJES       |        FRAMEWORKS        |         TECNOLOGÍAS        |        SOFT SKILLS        |
-|------------------------|--------------------------|----------------------------|---------------------------|
-| - HTML                 | - React                  | - Tailwind CSS             | - Trabajo en equipo       |
-| - CSS                  | - Next.js                | - Docker                   | - Comunicación efectiva   |
-| - JavaScript           | - Angular                | - Firebase                 | - Gestión del tiempo      |
-| - TypeScript           | - Vite                   | - Strapi                   | - Resolución de problemas |
-|                        | - Express                | - Node.js                  |                           |
-|                        | - Sequelize              | - PostgreSQL               |                           |
-|                        | - Mongoose               | - MongoDB                  |                           |
-|                        |                          | - Microservicios           |                           |
+### Lenguajes
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## :star2: Habilidades Adicionales
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Además de mis competencias en frontend y backend, también poseo conocimientos sólidos en otras áreas:
+### Tecnologías
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Soft Skills
+- Trabajo en equipo
+- Comunicación efectiva
+- Gestión del tiempo
+- Resolución de problemas
+
+## 🌟 Habilidades Adicionales
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge&logo=microservices&logoColor=white)
+
+### Otros Conocimientos
 - **Integraciones y Servicios**: Nodemailer, OpenAI.
 - **Sistemas Operativos**: Uso tanto **Windows 11** como **Linux basado en Debian** (WSL - Ubuntu).
 - **Desarrollo Completo**: He desarrollado formularios, ecommerce y contenedores.
 - **Metodologías**: Experiencia en Scrum para la gestión ágil de proyectos.
 - **Arquitectura**: Conocimientos en microservicios para el desarrollo escalable y eficiente de aplicaciones.
 
-## :chart_with_upwards_trend: Objetivos de Aprendizaje
+## 🎯 Objetivos de Aprendizaje
 
-Actualmente, estoy enfocado en mejorar mis habilidades en Next.js y Typescript, tecnologías que considero el futuro del desarrollo web. También busco mejorar mis conocimientos en diseño UX/UI y creación de contenidos.
+Actualmente, estoy enfocado en mejorar mis habilidades en Next.js y TypeScript, tecnologías que considero el futuro del desarrollo web. También busco mejorar mis conocimientos en diseño UX/UI y creación de contenidos.
 
-## :mailbox: Contacto
+## 📫 Contacto
 
 Para cualquier comunicación, no dudes en contactarme:
 
@@ -37,13 +57,13 @@ Para cualquier comunicación, no dudes en contactarme:
 - **Twitter:** [@twitperalta](https://twitter.com/twitperalta)
 - **LinkedIn:** [Sebastian Peralta](https://www.linkedin.com/in/sebastian-peralta-62539a240/)
 
-## :loudspeaker: Mi Voz
+## 📢 Mi Voz
 
 > "Mi pasión es el desarrollo web, creando interfaces de usuario que no solo sean funcionales, sino también estéticamente agradables y fáciles de usar, además de desarrollar soluciones backend robustas y escalables. Aspiro a ser el mejor en mi campo, creando aplicaciones innovadoras que impacten positivamente en el mundo."
 
-## :brain: Curiosidades
+## 🧠 Curiosidades
 
 - **Datos Curiosos**: Siempre busco mejorar mis conocimientos y disfruto aprendiendo cosas nuevas que no son ampliamente conocidas.
 - **Orden y Disciplina**: Trabajo constantemente en mejorar mi orden y disciplina para ser más eficiente en mis proyectos.
 
-Espero que este perfil en GitHub te brinde una visión clara de mis habilidades y aspiraciones como desarrollador web full stack. ¡Gracias por visitar mi repositorio!
+Espero que este perfil en GitHub te brinde una visión clara de mis habilidades y aspiraciones como desarrollador web frontend. ¡Gracias por visitar mi repositorio!
