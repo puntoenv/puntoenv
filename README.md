@@ -10,16 +10,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frameworks
+### Frameworks y Librerías
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5A03?style=for-the-badge&logo=astro&logoColor=white)
 
 ### Tecnologías
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### Soft Skills
 - Trabajo en equipo
@@ -53,9 +56,8 @@ Actualmente, estoy enfocado en mejorar mis habilidades en Next.js y TypeScript, 
 
 Para cualquier comunicación, no dudes en contactarme:
 
+- **LinkedIn:** [Sebastian Peralta](https://www.linkedin.com/in/puntoenv)
 - **Correo:** [sebssjb@gmail.com](mailto:sebssjb@gmail.com)
-- **Twitter:** [@twitperalta](https://twitter.com/twitperalta)
-- **LinkedIn:** [Sebastian Peralta](https://www.linkedin.com/in/sebastian-peralta-62539a240/)
 
 ## 📢 Mi Voz
 
