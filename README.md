@@ -1,8 +1,8 @@
 # ¡Hola, soy Sebastian Peralta! 👋
 
-¡Bienvenidos a mi repositorio! Aquí encontrarás el desarrollo de mis habilidades y diversos proyectos enfocados en el desarrollo web frontend. Soy un **Desarrollador Web Full Stack**, dedicado a crear experiencias de usuario excepcionales y soluciones backend robustas.
+¡Bienvenidos a mi repositorio! Soy Desarrollador Web Frontend. En este perfil encontrarás una colección de mis proyectos y habilidades, centrados en crear experiencias de usuario excepcionales y aplicaciones interactivas. Explora para ver cómo puedo transformar tus ideas en realidad.
 
-## 🔨 Habilidades en Desarrollo Web
+## 🔨 Habilidades en Frontend
 
 ### Lenguajes
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
@@ -58,6 +58,7 @@ Para cualquier comunicación, no dudes en contactarme:
 
 - **LinkedIn:** <a href="https://www.linkedin.com/in/puntoenv" target="_blank">Sebastian Peralta</a>
 - **Correo:** <a href="mailto:sebssjb@gmail.com" target="_blank">sebssjb@gmail.com</a>
+- **Twitter:** <a href="https://x.com/puntoenv" target="_blank">@puntoenv</a>
 
 ## 📢 Mi Voz
 
