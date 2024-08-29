@@ -1,6 +1,6 @@
 # ¡Hola, soy Sebastian Peralta! 👋
 
-<img src="https://sebastianperalta.vercel.app/puntoenv1.webp" alt="puntoenv" style="width: 200px; height: 200px;">
+<img src="https://sebastianperalta.vercel.app/puntoenv.webp" alt="puntoenv" style="width: 200px; height: 200px;">
 
 ¡Bienvenidos a mi repositorio! Soy Desarrollador Web Frontend. En este perfil encontrarás una colección de mis proyectos y habilidades, centrados en crear experiencias de usuario excepcionales y aplicaciones interactivas. Explora para ver cómo puedo transformar tus ideas en realidad.
 
